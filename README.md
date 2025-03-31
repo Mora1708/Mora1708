@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=4000&pause=2008&color=14CD43&width=435&lines=Hello+there!+I'm+Mora+;Welcome+to+my+GitHub+;I+am+a+physics+and+science+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial=800&duration=4000&pause=2008&color=14CD43&width=435&lines=Hello+there!+I'm+Mora+;Welcome+to+my+GitHub+;I+am+a+physics+and+science+enthusiast)](https://git.io/typing-svg)
 
 
 
